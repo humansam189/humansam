@@ -3,3 +3,5 @@ abs:Numerous synthesized videos from diffusion models, especially human-centric 
 For training and evaluation, we construct the first public benchmark, the Human-centric Forgery Video (HFV) dataset, with all types of forgeries carefully annotated. 
 In our experiments, HumanSAM yields promising results in comparison
 with state-of-the-art methods, both in binary and multi-class forgery classification.
+
+eval_dataset:https://huggingface.co/datasets/humansam/cogvideox5b_human_dim
